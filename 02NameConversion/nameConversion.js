@@ -9,7 +9,6 @@ let kebabCase = document.querySelector("#kebab-case")
 let ScreamingKebabCase = document.querySelector("#screaming-kebab-case")
 
 
-
 function convert(){
     const text = input.value
     //camelCase
